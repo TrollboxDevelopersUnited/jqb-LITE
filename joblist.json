@@ -1,0 +1,31 @@
+{
+    "jobs": [
+        "Accountant",
+        "Architect",
+        "Artist",
+        "Businessman",
+        "Carpenter",
+        "Chef",
+        "Dentist",
+        "Doctor",
+        "Developer",
+        "Electrician",
+        "Engineer",
+        "Farmer",
+        "Firefighter",
+        "Janitor",
+        "Lawyer",
+        "Mechanic",
+        "Nurse",
+        "Plumber",
+        "Policeman",
+        "Politician",
+        "Pilot",
+        "Salesman",
+        "Student",
+        "Surgeon",
+        "Therapist",
+        "Teacher",
+        "Waiter-Waitress"
+    ]
+}
