@@ -6,7 +6,8 @@ const _ = require("lodash");
 const io = require("socket.io-client");
 const { exec } = require('child_process')
 const fs = require('fs');
-const fetch = require('node-fetch')
+// nodejs already has a native fetch()
+// const fetch = require('node-fetch')
 const os = require('os')
 const socket = io("https://www.windows93.net:8088", {
 	forceNew: true,
